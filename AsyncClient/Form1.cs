@@ -17,7 +17,7 @@ namespace AsyncClient
         {
             InitializeComponent();
         }
-
+        //그냥 Git을 테스트 해보기 위해서 하는거임
         private Socket m_ClientSocket;
 
         private void Form1_Load(object sender, EventArgs e)
