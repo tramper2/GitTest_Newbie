@@ -17,11 +17,10 @@ namespace AsyncClient
         {
             InitializeComponent();
         }
-<<<<<<< HEAD
+
         //그냥 Git을 테스트 해보기 위해서 하는거임
-=======
         //델컴에서 수정테스트
->>>>>>> dda590c560dd4684099240c9fd411056e51551b1
+        //이번에는 메인에서 테스트 해본다
         private Socket m_ClientSocket;
 
         private void Form1_Load(object sender, EventArgs e)
