@@ -1,0 +1,16 @@
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncSocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncSocketServer\obj\x86\Debug\AsyncSocketServer.Form1.resources
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncSocketServer\obj\x86\Debug\AsyncSocketServer.Properties.Resources.resources
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncSocketServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncSocketServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncSocketServer\obj\x86\Debug\AsyncSocketServer.exe
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncSocketServer\obj\x86\Debug\AsyncSocketServer.pdb
+C:\Project\AsyncSocketServer\obj\x86\Debug\AsyncSocketServer.exe
+C:\Project\AsyncSocketServer\obj\x86\Debug\AsyncSocketServer.pdb
+C:\Project\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+C:\Project\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+C:\Project\AsyncSocketServer\obj\x86\Debug\AsyncSocketServer.Form1.resources
+C:\Project\AsyncSocketServer\obj\x86\Debug\AsyncSocketServer.Properties.Resources.resources
+C:\Project\AsyncSocketServer\obj\x86\Debug\AsyncSocketServer.csproj.GenerateResource.Cache
