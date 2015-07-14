@@ -17,7 +17,7 @@ namespace AsyncClient
         {
             InitializeComponent();
         }
-
+        //델컴에서 수정테스트
         private Socket m_ClientSocket;
 
         private void Form1_Load(object sender, EventArgs e)
